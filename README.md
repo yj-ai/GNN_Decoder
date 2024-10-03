@@ -1,1 +1,1 @@
-# GNN_Decoder
+# GNN_Decoder for 캡스톤
